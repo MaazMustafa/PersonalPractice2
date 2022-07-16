@@ -1,0 +1,22 @@
+{
+  "name": "personalpractice2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LoginApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaazMustafa/PersonalPractice2.git"
+  },
+  "author": "Maaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaazMustafa/PersonalPractice2/issues"
+  },
+  "homepage": "https://github.com/MaazMustafa/PersonalPractice2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
